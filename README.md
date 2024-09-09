@@ -1,6 +1,8 @@
-# SaveIT - Application Tracker
+# SaveIT - Application Tracker Chrome Extention
 
 **SaveIT - Application Tracker** is a FREE, NO LOGIN Chrome extension designed to help you manage multiple applications effortlessly, whether for university, internships, jobs, or any other opportunities. Say goodbye to tedious spreadsheets and scattered notes—SaveIT keeps all your application details secure within your browser, with no external storage, no data leaks, and 200% data security. 
+
+## Important Info : Original Version is PRIVATE and is not open-sourced - this is only for reference and links
 
 ## Key Features
 - ### **Effortless Tracking:**
