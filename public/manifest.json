@@ -1,0 +1,15 @@
+{
+  "name": "SaveIt - Job Tracker",
+  "version": "1.0.0",
+  "description": "SaveIT - Application Tracker is a FREE, NO LOGIN tool designed to help you manage multiple applications effortlessly, whether for university, internships, jobs, or any other opportunities. Ditch the tedious spreadsheets and scattered notes—SaveIT streamlines your application process, keeping you organized and in control. This keeps all your application details secure within your browser—no external storage, data leaks, and 200% data security.",
+  "manifest_version": 3,
+  "permissions": ["storage", "activeTab","bookmarks"],
+  "action": {
+    "default_popup" : "index.html",
+    "default_icon" : {
+      "128" : "save.png",
+      "48": "save-48.png",
+      "16" : "save-48-4.png"
+    }
+  }
+}
